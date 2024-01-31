@@ -1,0 +1,7 @@
+venv
+.idea
+similarity.pkl
+setup.sh
+movies.pkl
+profile
+requirements.txt
