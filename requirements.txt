@@ -1,5 +1,5 @@
 streamlit
+scikit-learn
 pickle
 pandas
 requests
-
