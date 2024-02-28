@@ -1,2 +1,5 @@
 streamlit
+sklearn
+pandas
 requests
+pickle
